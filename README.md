@@ -1,5 +1,5 @@
 Topic: My Distractions. I have decided to collect data which will reflect how frequently I am distracted from my main task. This is an interesting topic because it will help me identify the most common causes of my distractions so I can eventually work on reducing them. 
 
-The categories I am collecting include: what task I got distracted from, which activity I got distracted by, the duration of each distraction, the time of day and the date. This will show patterns such as what activities I am usually distracted by, how long the distractions typically last and what time of the day I am most likely to be distracted. 
+The categories I am collecting include: what task I got distracted from, which activity I got distracted by, the duration of each distraction, the time of day and the date. I also have a category column which differentiates my distractions to make visualization easier. This will show patterns such as what activities I am usually distracted by, how long the distractions typically last and what time of the day I am most likely to be distracted. 
 
 I am logging entries on Excel as it provides a clear, simple and organised format for storing data. However, this can be difficult to track as I don't always recognise when I am distracted or I may forget to record an entry. This could result in missing data and potentially delay my data collection.
